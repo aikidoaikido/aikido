@@ -1,6 +1,5 @@
 +++
 date = 2014-09-07T13:18:04Z
-draft = true
 title = "Sobre la Asociación"
 mainpage = true
 menu = "main"

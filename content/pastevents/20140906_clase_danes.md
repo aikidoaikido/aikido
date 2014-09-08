@@ -7,3 +7,5 @@ type = "events"
 
 +++
 
+Fotos de la clase
+{{% embedsocial 724288197639042 %}}
