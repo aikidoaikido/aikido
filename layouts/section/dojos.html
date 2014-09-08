@@ -1,0 +1,129 @@
+{{ template "chrome/head.html" . }}
+<body class="theme-base-0b">
+
+{{ template "chrome/sidebar.html" . }}
+
+<div class="content container">
+{{ template "chrome/banner.html" . }}
+
+<h1>Dojos</h1>
+<div class="posts">
+
+<div>
+    <p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/mapa_dojos_argentina.jpg" style="width: 100%"></p>
+    <p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/mapa_dojos_colombia.jpg" style="width: 100%"></p>
+    <p style="clear: both;">
+</div>
+
+  <ul class="posts">
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_cordoba.png" width="64"></p>
+          <h3>Provincia de Córdoba</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "Cordoba" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_pais_colombia.png" width="64"></p>
+          <h3>Colombia</h3>
+        <p style="clear: both;">
+      {{ range where .Data.Pages "Section" "dojos" }}
+      {{ if eq .Params.place "Colombia" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_mendoza.png" width="64"></p>
+          <h3>Provincia de Mendoza</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "Mendoza" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_san_luis.png" width="64"></p>
+          <h3>Provincia de San Luis</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "San Luis" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_san_juan.png" width="64"></p>
+          <h3>Provincia de San Juan</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "San Juan" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_la_pampa.png" width="64"></p>
+          <h3>Provincia de La Pampa</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "La Pampa" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_catamarca.png" width="64"></p>
+          <h3>Provincia de Catamarca</h3>
+        <p style="clear: both;">
+      {{ range (where .Data.Pages "Section" "dojos").Reverse }}
+      {{ if eq .Params.place "Catamarca" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_ciudad_autonoma_de_buenos_aires.png" width="64"></p>
+          <h3>Ciudad Autonoma de Buenos Aires</h3>
+        <p style="clear: both;">
+      {{ range where .Data.Pages "Section" "dojos" }}
+      {{ if eq .Params.place "Ciudad Autonoma de Buenos Aires" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+
+  <div>
+        <p style="float: left; font-size: 9pt; text-align: center; width: 10%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/escudo_provincia_buenos_aires.png" width="64"></p>
+          <h3>Provincia de Buenos Aires</h3>
+        <p style="clear: both;">
+      {{ range where .Data.Pages "Section" "dojos" }}
+      {{ if eq .Params.place "Buenos Aires" }}  
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+      {{ end }}
+  </div>
+  <br>
+  </ul>
+</div>
+
+
+  </body>
+</html>

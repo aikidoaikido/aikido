@@ -1,0 +1,30 @@
+{{ template "chrome/head.html" . }}
+<body class="theme-base-0b">
+
+{{ template "chrome/sidebar.html" . }}
+
+<div class="content container">
+{{ template "chrome/banner.html" . }}
+<h1>Eventos Pasados</h1>
+<div class="posts">
+
+<div>
+    La Asociación Cordobesa de Aikido y demás organizaciones adheridas 
+    desarrollarán gran actividad en Seminarios tanto en Córdoba, como en el 
+    interior del país y aún del exterior. 
+
+    A continuación se listan las actividades pasadas.
+
+    Los eventos próximos se encuentran en <a href="/events">Eventos Próximos</a>
+</div>
+
+  <ul class="posts">
+      {{ range .Data.Pages }}
+      <li> <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }} <span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
+      {{ end }}
+  </ul>
+</div>
+
+
+  </body>
+</html>

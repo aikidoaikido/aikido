@@ -1,0 +1,19 @@
+{{ template "chrome/head.html" . }}
+<body class="theme-base-0b">
+
+{{ template "chrome/sidebar.html" . }}
+
+    <div class="content container">
+{{ template "chrome/banner.html" . }}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+  <span ><b>Lugar:</b> {{ .Params.place }}</span>
+  <br>
+      {{ .Content }}
+
+</div>
+</div>
+
+  </body>
+</html>
