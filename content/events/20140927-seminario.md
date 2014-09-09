@@ -10,3 +10,4 @@ place = "Escuela General Manuel Belgrano, Córdoba, Argentina"
 +++
 
 
+{{% figure src="/images/events/poster_seminario_20140927.jpg" %}}
