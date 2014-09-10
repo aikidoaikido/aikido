@@ -1,0 +1,1 @@
+El contenido de la página se escribe en [Markdown](http://daringfireball.net/projects/markdown/syntax) y se pasa a HTML usando [Hugo](http://hugo.spf13.com/).
