@@ -22,7 +22,7 @@
 </div>
 
 <h2>Siguiente evento</h2>
-      {{ range first 1 .Data.Pages }}
+      {{ range first 1 .Data.Pages.Reverse }}
       <h3>{{ .Title }}</h3>
       <br>
       {{ .Date.Format "Mon, Jan 2, 2006" }}
