@@ -9,5 +9,5 @@ type = "events"
 
 El sábado 1 de febrero Medina Franck Sensei dictó la primera Clase de Danes del año 2014.
 
-{{% figure src="http://www.aikidoaikido.com.ar/images/events/images/P1130496.preview.JPG" %}}
+{{% figure src="http://www.aikidoaikido.com.ar/images/events/2014/P1130496.preview.JPG" %}}
 

@@ -9,6 +9,6 @@ type = "events"
 
 Exitoso Seminario de Sumi-e dictado en nuestro Dojo Central. Tanto es así que se fijó el el 12 de Abril como próxima fecha.
 
-{{% figure src="/images/events/2014/Sumi.preview.jpg" %}}
-{{% figure src="/images/events/2014/sumie.preview.jpg" %}}
-{{% figure src="/images/events/2014/Sumi-E.preview.jpg" %}}
+{{% figure src="http://www.aikidoaikido.com.ar/images/events/2014/Sumi.preview.jpg" %}}
+{{% figure src="http://www.aikidoaikido.com.ar/images/events/2014/sumie.preview.jpg" %}}
+{{% figure src="http://www.aikidoaikido.com.ar/images/events/2014/Sumi-E.preview.jpg" %}}
