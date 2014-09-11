@@ -2,7 +2,7 @@
 Description = ""
 date = "2014-09-07T21:35:23-03:00"
 menu = "main"
-title = "Aikido"
+title = "Origenes del Aikido"
 
 +++
 

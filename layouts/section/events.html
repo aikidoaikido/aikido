@@ -21,6 +21,16 @@
     Los eventos pasados se encuentran en <a href="/pastevents">Eventos Pasados</a>
 </div>
 
+<h2>Siguiente evento</h2>
+      {{ range first 1 .Data.Pages.Reverse }}
+      <h3>{{ .Title }}</h3>
+      <br>
+      {{ .Date.Format "Mon, Jan 2, 2006" }}
+      <br>
+      {{ .Content }}
+      {{ end }}
+
+<h2>Todos los eventos próximos</h2>
   <ul class="posts">
       {{ range .Data.Pages }}
       <li> <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }} <span><a href="{{ .Permalink }}">{{ .Title }}</a></h4></time></span></span></li>
@@ -28,6 +38,5 @@
   </ul>
 </div>
 
-
-  </body>
+</body>
 </html>
