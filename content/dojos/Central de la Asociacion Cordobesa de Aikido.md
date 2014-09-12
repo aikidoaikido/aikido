@@ -54,6 +54,12 @@ Raul Marcial Medina Franck Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan d
 | *19:45-20:45 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO |  AIKIDO |
 | *21:00-22:00 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO |  AIKIDO |
 
+## AIKIDO NIÑOS
+
+|                  | Lunes  | Martes       | Miércoles | Jueves       | Viernes |
+|------------------|--------|--------------|-----------|--------------|:-------:|
+| *18:30-19:30 hs* |        | AIKIDO NIÑOS |           | AIKIDO NIÑOS |         |
+
 ## IAIDO
 
 |                  | Lunes | Martes | Miércoles | Jueves | Viernes |
