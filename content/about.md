@@ -19,18 +19,18 @@ sin fines de lucro y con reconocimiento oficial del superior gobierno de
 la Provincia de Córdoba (República Argentina) con **Personería Jurídica 151
 A**.
 En el mes de Febrero 2009 iniciamos los trámites para solicitar el 
-reconocimiento directo de la Central en Japón, Hombu Dojo, para la 
-Institución, por que todos los Graduados Dan (cinturones negros) y Kiu ya 
-tienen el reconocimiento de Hombu Dojo.
+reconocimiento directo de Hombu Dojo, la Central de Japón. Todos los Grados 
+que se otorgan, Dan (cinturones negros) y Kiu, tienen el reconocimiento de
+Hombu Dojo.
 
-> Nuestro Director Técnico es el Shihan Yoshimitsu Yamada 8º Dan, discípulo 
-> directo del Creador de Aikido O Sensei Morihei Ueshiba.
+> Nuestro Director Técnico es el **Shihan Yoshimitsu Yamada 8º Dan**, discípulo 
+> directo del Creador de Aikido **O Sensei Morihei Ueshiba**.
 
 De hecho **somos los introductores del Arte Marcial de la Paz**, Aikido en la 
 Provincia, por lo que nos sentimos con la gran responsabilidad de continuar 
 con esta grata tarea para afianzar su difusión con el objetivo que las nuevas 
 generaciones puedan beneficiarse con la práctica de esta disciplina que 
-seguramente le ayudará y brindará herramientas que les serán útiles para 
+seguramente les ayudará y brindará herramientas que les serán útiles para 
 mejorar no sólo su salud sino también, su estilo de vida.
 
 {{% figure src="/images/people/Raul Marcial Medina Franck.jpg" caption="Maestro 
