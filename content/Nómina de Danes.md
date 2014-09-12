@@ -24,23 +24,23 @@ title = "Nómina de Danes"
 --------
 
  * Marta Morabito
+ * Juan José Trakal
 
 
 3er. Dan
 --------
 
  * Carmen Cisterna
- * Juan José Trakal
  * Carlos Angel Hernandez
  * José Delgado
  * Sergio Rossi
+ * Rafaél Santiago Moyano
 
 
 2do. Dan
 --------
 
  * Ricardo Tomás Goicochea
- * Rafaél Santiago Moyano
  * Omar Mazzieri
  * Gustavo Sanin
  * Daniel Zukauskas
@@ -62,6 +62,8 @@ title = "Nómina de Danes"
  * Juan Galleguillo
  * Pablo Boetsch
  * Ariane Rafael
+ * Jorge Orpianesi
+ * Diego Ferreyra
 
 
 1er. Dan
@@ -71,10 +73,8 @@ title = "Nómina de Danes"
  * Federico Carignano
  * Diego Castella
  * Ruth Fernandez
- * Diego Ferreyra
  * Marina Mendizabal
  * Juan Mottola
- * Jorge Orpianesi
  * Oscar Parente
  * Miguel Angel Puchi
  * Martin Giovagnetti
@@ -83,7 +83,6 @@ title = "Nómina de Danes"
  * Hernan Sanchez
  * Gisela Aguilera
  * Lucas Nanzer
- * Ruben Carrizo
  * Hugo Bazan
  * Fabian Hernandez
  * Guillermo Vera
@@ -96,7 +95,6 @@ title = "Nómina de Danes"
  * José Eduardo Rodriguez
  * Luis Moreno
  * Juan Manuel Funes
- * Clarisa Ardaiz
  * Mauro Edgardo Argüello
  * Grisel Macarena Argüello
  * Mauricio Fourcade
@@ -128,4 +126,22 @@ title = "Nómina de Danes"
  * Eduardo Ramallo
  * Hugo Agüero
  * Carlos de la Torre
+ * Bruno Conti
+ * María Tatiana Agúero
+ * Horacio Hernán Contrera
+ * Juan Domingo Peralta
+ * Pablo Osiris Ameri
+ * Ricardo Velazquez
+ * Alejandro María de Carlo
+ * Luciano Ortín Dávila
+ * Germán Darío Mugnaini
+ * Ramón Claudio Bustos
+ * Alejandro Héctor Giorgio
+ * Ramón Ezequiel Demo
+ * Patricio Iván Pantaleo
+ * Serio Raúl Villegas
+ * José Gabriel Viviano
+ * Ricardo Daniel Bino
+ * Jorge Gustavo Martinez
+ * Victor Hugo Ferreyra
 
