@@ -3,6 +3,7 @@ Description = ""
 date = "2014-09-07T20:00:15-03:00"
 menu = "main"
 title = "Nómina de Danes"
+slug = "danes"
 
 +++
 
