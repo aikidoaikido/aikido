@@ -26,6 +26,7 @@
       <h3>{{ .Title }}</h3>
       <br>
       {{ .Date.Format "Mon, Jan 2, 2006" }}
+      {{ template "chrome/facebookshare.html" }}
       <br>
       {{ .Content }}
       {{ end }}
