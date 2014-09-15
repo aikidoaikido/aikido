@@ -11,12 +11,12 @@ menu = "main"
 *Teléfono:* +549 351-650-3560
 
 *Nuestro Facebook:* http://www.facebook.com/asoc.cba.aikido
- 
-*Dirección:* ([horarios](/images/horarios.jpg))<br>
+
+*Dirección:* ([horarios](/dojos/Central de la Asociacion Cordobesa de Aikido/))<br>
 Av. Vélez Sarsfield 910<br>
 X5000JJW - Córdoba<br>
 Córdoba<br>
 Argentina
- 
+
 
 {{% map %}}
