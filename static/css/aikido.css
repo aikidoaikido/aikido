@@ -2,7 +2,10 @@
   font-size: 14px;
 }
 
-a.fb-share img {
-	display: block;
+div.fb-share-button {
 	float: right;
+}
+
+div.fb-share-button > span {
+    vertical-align: middle !important;
 }

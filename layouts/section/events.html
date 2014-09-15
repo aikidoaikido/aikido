@@ -10,12 +10,12 @@
 <div class="posts">
 
 <div>
-    La Asociación Cordobesa de Aikido y demás organizaciones adheridas 
-    desarrollarán gran actividad en Seminarios tanto en Córdoba, como en el 
-    interior del país y aún del exterior. 
+    La Asociación Cordobesa de Aikido y demás organizaciones adheridas
+    desarrollarán gran actividad en Seminarios tanto en Córdoba, como en el
+    interior del país y aún del exterior.
 
-    A continuación se listan las actividades previstas para lo que resta del año. 
-    La información sobre cada actividad se irá ampliando y actualizando a medida 
+    A continuación se listan las actividades previstas para lo que resta del año.
+    La información sobre cada actividad se irá ampliando y actualizando a medida
     que se disponga de la misma.
 
     Los eventos pasados se encuentran en <a href="/pastevents">Eventos Pasados</a>
@@ -23,10 +23,16 @@
 
 <h2>Siguiente evento</h2>
       {{ range first 1 .Data.Pages.Reverse }}
+
       <h3>{{ .Title }}</h3>
       <br>
       {{ .Date.Format "Mon, Jan 2, 2006" }}
-      {{ template "chrome/facebookshare.html" }}
+
+<div
+    class="fb-share-button"
+    data-href="{{.Permalink}}">
+</div>
+
       <br>
       {{ .Content }}
       {{ end }}
