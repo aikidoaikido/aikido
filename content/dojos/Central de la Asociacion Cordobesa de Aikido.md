@@ -3,7 +3,7 @@ Description = ""
 date = 2014-09-07T18:39:47Z
 place = "Córdoba"
 title = "Central de la Asociacion Cordobesa de Aikido"
-
+slug = "horarios"
 +++
 
 
