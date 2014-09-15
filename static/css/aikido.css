@@ -1,3 +1,11 @@
 #footer p.small {
   font-size: 14px;
 }
+
+div.fb-share-button {
+	float: right;
+}
+
+div.fb-share-button > span {
+    vertical-align: middle !important;
+}
