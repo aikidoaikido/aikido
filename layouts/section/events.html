@@ -24,10 +24,12 @@
 <h2>Siguiente evento</h2>
       {{ range first 1 .Data.Pages.Reverse }}
       <h3>{{ .Title }}</h3>
+      <b>Fecha</b>: {{ .Date.Format "Mon, Jan 2, 2006" }}
       <br>
-      {{ .Date.Format "Mon, Jan 2, 2006" }}
-      <br>
+      <b>Lugar</b>: {{ .Params.place }}
+      <p>
       {{ .Content }}
+      </p>
       {{ end }}
 
 <h2>Todos los eventos próximos</h2>
