@@ -11,11 +11,11 @@
 
 				<h1>{{ .Title }}</h1>
 				<span class="post-date">{{ .Date.Format "02/01/2006" }}</span>
-				
+				<span ><b>Lugar:</b> {{ .Params.place }}</span>
+
 				{{ .Content }}
 				
 				<hr> 
-				<span ><b>Lugar:</b> {{ .Params.place }}</span>
 
 			</div>
 		</div>
