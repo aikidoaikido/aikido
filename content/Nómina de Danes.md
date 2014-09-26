@@ -17,15 +17,15 @@ slug = "danes"
 5to. Dan
 --------
 
- * Edgardo Argüello
  * Daniel Medina
+ * Edgardo Argüello
 
 
 4to. Dan
 --------
 
- * Marta Morabito
  * Juan José Trakal
+ * Marta Morabito
 
 
 3er. Dan
@@ -33,116 +33,115 @@ slug = "danes"
 
  * Carmen Cisterna
  * Carlos Angel Hernandez
+ * Daniel Zukauskas
  * José Delgado
- * Sergio Rossi
  * Rafaél Santiago Moyano
-
+ * Sergio Rossi
 
 2do. Dan
 --------
 
- * Ricardo Tomás Goicochea
- * Omar Mazzieri
- * Gustavo Sanin
- * Daniel Zukauskas
- * Sebastián Torres
- * Eduardo Castelli
- * Guillermo Echeverria
- * Mary Peretti
- * Diego Gustavo Hefty
- * Gustavo Saldaña
- * Pablo Arranz
- * Eugenio Fernandez
- * Luciano Battistini
- * Juan Manual Sanchez
- * Luis Tokashiki
- * Iván Ocaño
- * Walter Oviedo
- * Melina Rey
- * Ignacio Leguizamón
- * Juan Galleguillo
- * Pablo Boetsch
  * Ariane Rafael
- * Jorge Orpianesi
  * Diego Ferreyra
+ * Diego Gustavo Hefty
+ * Eduardo Castelli
+ * Eugenio Fernandez
+ * Guillermo Echeverria
+ * Gustavo Saldaña
+ * Gustavo Sanin
+ * Ignacio Leguizamón
+ * Iván Ocaño
+ * Jorge Orpianesi
+ * Juan Galleguillo
+ * Juan Manual Sanchez
+ * Luciano Battistini
+ * Luis Tokashiki
+ * Mary Peretti
+ * Melina Rey
+ * Omar Mazzieri
+ * Pablo Arranz
+ * Pablo Boetsch
+ * Ricardo Tomás Goicochea
+ * Sebastián Torres
+ * Walter Oviedo
 
 
 1er. Dan
 --------
 
- * Pablo Aramayo
- * Federico Carignano
- * Diego Castella
- * Ruth Fernandez
- * Marina Mendizabal
- * Juan Mottola
- * Oscar Parente
- * Miguel Angel Puchi
- * Martin Giovagnetti
- * Pablo Martin de la Barrera
- * Matías Nuñez
- * Hernan Sanchez
- * Gisela Aguilera
- * Lucas Nanzer
- * Hugo Bazan
- * Fabian Hernandez
- * Guillermo Vera
- * Hernán Bobadilla
- * César Tittarelli
- * Gustavo Requelme
- * Nadia Susevich
- * Ezequiel Santiago Velez
- * Fernando Luis Soria Percello
- * José Eduardo Rodriguez
- * Luis Moreno
- * Juan Manuel Funes
- * Mauro Edgardo Argüello
- * Grisel Macarena Argüello
- * Mauricio Fourcade
- * Victor Adrián Bertolani
- * Hector Omar Aurieme
- * Dino Giralda
- * Raúl Ariel Guzman
- * Lucas Campo
- * Rodolfo Hugo Ceballos
- * Gustavo Raúl Paez
- * Angel Emilio Lamor
- * Fernando Martinez
- * José Miguel Frustaglia
- * Daniel Joaquín Lombardi
- * José Miguel Ciffone
- * Darío Gabriel Vargas
- * Marcos Andrés Finsterbuch
- * Diego Maldonado
- * Liliana Blanco
- * Alfonso Osorio
- * Cintia Mayztegui
- * Carlos Bisio
- * Edgardo Di Buchianico
- * Gustavo Rizo
- * Paula Galleguillo
- * Maria Eugenia Cataldo
- * Roberto Urriza
- * Eugenia Izquierdo
- * Eduardo Ramallo
- * Hugo Agüero
- * Carlos de la Torre
- * Bruno Conti
- * María Tatiana Agúero
- * Horacio Hernán Contrera
- * Juan Domingo Peralta
- * Pablo Osiris Ameri
- * Ricardo Velazquez
- * Alejandro María de Carlo
- * Luciano Ortín Dávila
- * Germán Darío Mugnaini
- * Ramón Claudio Bustos
  * Alejandro Héctor Giorgio
- * Ramón Ezequiel Demo
- * Patricio Iván Pantaleo
- * Serio Raúl Villegas
- * José Gabriel Viviano
- * Ricardo Daniel Bino
+ * Alejandro María de Carlo
+ * Alfonso Osorio
+ * Angel Emilio Lamor
+ * Bruno Conti
+ * Carlos Bisio
+ * Carlos de la Torre
+ * Cintia Mayztegui
+ * César Tittarelli
+ * Daniel Joaquín Lombardi
+ * Darío Gabriel Vargas
+ * Diego Castella
+ * Diego Maldonado
+ * Dino Giralda
+ * Edgardo Di Buchianico
+ * Eduardo Ramallo
+ * Eugenia Izquierdo
+ * Ezequiel Santiago Velez
+ * Fabian Hernandez
+ * Federico Carignano
+ * Fernando Luis Soria Percello
+ * Fernando Martinez
+ * Germán Darío Mugnaini
+ * Gisela Aguilera
+ * Grisel Macarena Argüello
+ * Guillermo Vera
+ * Gustavo Raúl Paez
+ * Gustavo Requelme
+ * Gustavo Rizo
+ * Hector Omar Aurieme
+ * Hernan Sanchez
+ * Hernán Bobadilla
+ * Horacio Hernán Contrera
+ * Hugo Agüero
+ * Hugo Bazan
  * Jorge Gustavo Martinez
+ * José Eduardo Rodriguez
+ * José Gabriel Viviano
+ * José Miguel Ciffone
+ * José Miguel Frustaglia
+ * Juan Domingo Peralta
+ * Juan Manuel Funes
+ * Juan Mottola
+ * Liliana Blanco
+ * Lucas Campo
+ * Lucas Nanzer
+ * Luciano Ortín Dávila
+ * Luis Moreno
+ * Marcos Andrés Finsterbuch
+ * Maria Eugenia Cataldo
+ * Marina Mendizabal
+ * Martin Giovagnetti
+ * María Tatiana Agúero
+ * Matías Nuñez
+ * Mauricio Fourcade
+ * Mauro Edgardo Argüello
+ * Miguel Angel Puchi
+ * Nadia Susevich
+ * Oscar Parente
+ * Pablo Aramayo
+ * Pablo Martin de la Barrera
+ * Pablo Osiris Ameri
+ * Patricio Iván Pantaleo
+ * Paula Galleguillo
+ * Ramón Claudio Bustos
+ * Ramón Ezequiel Demo
+ * Raúl Ariel Guzman
+ * Ricardo Daniel Bino
+ * Ricardo Velazquez
+ * Roberto Urriza
+ * Rodolfo Hugo Ceballos
+ * Ruth Fernandez
+ * Serio Raúl Villegas
+ * Victor Adrián Bertolani
  * Victor Hugo Ferreyra
 
