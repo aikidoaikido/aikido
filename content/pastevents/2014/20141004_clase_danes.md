@@ -7,3 +7,4 @@ type = "events"
 
 +++
 
+La clase de Danes del mes de octubre fue cancelada por las intensas lluvias en la Ciudad de Córdoba.
