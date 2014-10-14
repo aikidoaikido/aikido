@@ -8,12 +8,29 @@ type = "events"
 
 +++
 
-Dictado por Sensei Raúl Marcial Medina Franck
+Hermoso seminario en Río Cuarto, provincia de Córdoba. Sensei Raúl Medina Franck tomó exámenes y
+los siguientes practicantes consiguieron una nueva graduación:
+ 
+##### 1er. kiu
 
-{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" 
-    caption="Sensei Raúl Marcial Medina Franck" %}}
+* Aguirre Nazareno Matías
 
-{{% figure src="/images/events/poster_seminario_20141011.jpg" %}}
+##### 2do. kiu
+
+* Crespo Horacio Darío
+
+##### 4to. kiu
+
+* Hefty Lucas Gustavo
+ 
+##### 5to. kiu
+
+* Britos Maximiliano Mario
+* Sosa Santiago Damian
+* Poffo Leandro Valentín
+ 
+
+{{% figure src="http://aikidoaikido.com.ar/images/events/2014/poster_seminario_20141011.jpg" %}}
 
 #### Como llegar
 
