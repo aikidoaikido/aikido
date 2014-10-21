@@ -11,12 +11,13 @@
 
 				<h1>{{ .Title }}</h1>
 				<span class="post-date">{{ .Date.Format "02/01/2006" }}</span>
-				<span ><b>Lugar:</b> {{ .Params.place }}</span>
-
+				{{ if .Params.place }}
+					<span ><b>Lugar:</b> {{ .Params.place }}</span>
+				{{ end }}
 				{{ .Content }}
 				
 				<hr> 
-
+				<div class="fb-share-button" data-href="{{ .Permalink }}"></div>
 			</div>
 		</div>
 
