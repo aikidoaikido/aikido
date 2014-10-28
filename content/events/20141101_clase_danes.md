@@ -7,3 +7,5 @@ type = "events"
 
 +++
 
+
+{{% figure src="http://www.aikido.at/images/japan_2k8/3_budo/japan_2k8_keikogi_2.jpg" %}}
