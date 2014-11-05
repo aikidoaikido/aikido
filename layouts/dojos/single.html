@@ -1,51 +1,56 @@
 {{ template "chrome/head.html" . }}
 <body class="theme-base-0b">
 
-{{ template "chrome/sidebar.html" . }}
+  {{ template "chrome/sidebar.html" . }}
 
-    <div class="content container">
-{{ template "chrome/banner.html" . }}
-<div class="post">
-  <h1>{{ .Title }}</h1>
-  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+  <div class="content container">
+    {{ template "chrome/banner.html" . }}
+    <div class="post">
+      <h1>{{ .Title }}</h1>
 
-  {{ if isset .Params "supervisor" }}
-  <span ><b>Supervisor:</b> {{ .Params.supervisor }} <i>{{ .Params.supervisorrank }}</i> </span>
-  <img src="/images/people/{{ .Params.supervisor }}.jpg" alt="">
-  <br>
-  {{ end }}
+    <!--
+      {{ if isset .Params "supervisor" }}
+      <span ><b>Supervisor:</b> {{ .Params.supervisor }} <i>{{ .Params.supervisorrank }}</i> </span>
+      <img src="/images/people/{{ .Params.supervisor }}.jpg" alt="">
+      <br>
+      {{ end }}
+    -->
+      {{ if isset .Params "instructor" }}
+      <span ><b>Instructor:</b> {{ .Params.instructor }} <i>{{ .Params.instructorrank }}</i> </span>
+      <img src="/images/people/{{ .Params.instructor }}.jpg" alt="">
+      <br>
+      {{ end }}
 
-  {{ if isset .Params "instructor" }}
-  <span ><b>Instructor:</b> {{ .Params.instructor }} <i>{{ .Params.instructorrank }}</i> </span>
-  <img src="/images/people/{{ .Params.instructor }}.jpg" alt="">
-  <br>
-  {{ end }}
+      {{ if isset .Params "place" }}
+      <span ><b>Lugar:</b> {{ .Params.place }}</span>
+      <br>
+      {{ end }}
 
-  {{ if isset .Params "place" }}
-  <span ><b>Lugar:</b> {{ .Params.place }}</span>
-  <br>
-  {{ end }}
+      {{ if isset .Params "address" }}
+      <span ><b>Dirección:</b> {{ .Params.address }}</span>
+      <br>
+      {{ end }}
 
-  {{ if isset .Params "address" }}
-  <span ><b>Dirección:</b> {{ .Params.address }}</span>
-  <br>
-  {{ end }}
+      {{ if isset .Params "email" }}
+      <span ><b>Email:</b> <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
+      <br>
+      {{ end }}
 
-  {{ if isset .Params "email" }}
-  <span ><b>Email:</b> <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
-  <br>
-  {{ end }}
+      {{ if isset .Params "telephone" }}
+      <span ><b>Teléfono:</b> {{ .Params.telephone }}</span>
+      <br>
+      {{ end }}
 
-  {{ if isset .Params "telephone" }}
-  <span ><b>Teléfono:</b> {{ .Params.telephone }}</span>
-  <br>
-  {{ end }}
+      {{ if isset .Params "facebook" }}
+      <span ><a href="{{ .Params.facebook }}">Encontranos en Facebook</a></span>
+      <br>
+      {{ end }}
 
-  <br>
-  {{ .Content }}
+      <br>
+      {{ .Content }}
 
-</div>
-</div>
+    </div>
+  </div>
 
-  </body>
+</body>
 </html>
