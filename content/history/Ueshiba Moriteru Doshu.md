@@ -5,9 +5,9 @@ title = "Ueshiba Moriteru Doshu"
 
 +++
 
-Nació en 1951. Es el 2do hijo de Kisshomaru Moriteru. En Mayo de 1986 asumió
-como el Presidente de la Fundación Aikikai. Desde Enero de 1986 es el Director
-General del Aikikai Hombu Dojo.
+...2do hijo de Kisshomaru. Moriteru Ueshiba es, desde Enero de 1986,  el
+Director General del Aikikai Hombu Dojo y en Mayo del mismo año asumió como
+Presidente de la Fundación Aikikai.
 
 En el presente, enseña Aikido en el Hombu Dojo, en el Parlamento Japonés, en la
 Universidad de Tohoku, KDD, NHK y otras empresas, en la Academia de la Fuerza
