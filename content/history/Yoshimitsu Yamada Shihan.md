@@ -20,9 +20,9 @@ Yamada Shihan conduce seminarios en todo el mundo y es considerado uno de los
 mas respetados maestros internacionales, su calendario de actividades anuales
 incluye países de todos los continentes.
 
-Anualmente concurre a dictar Seminarios en Argentina. En Córdoba dictó dos
+Anualmente concurre a dictar Seminarios en Argentina. **En Córdoba dictó dos
 memorables Seminarios, el primero,  al cumplirse  10 años de la práctica  de
 Aikido en nuestra ciudad  y el segundo en el marco de los festejos por los 25
 años de la Asociación Cordobesa de Aikido, ocasión en la que el poder
 Legislativo de la provincia lo declaró  Maestro de Artes Marciales Destacado y
-Visitante Ilustre de la Provincia de Córdoba.
+Visitante Ilustre de la Provincia de Córdoba.**

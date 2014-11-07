@@ -1,7 +1,7 @@
 +++
 Description = ""
 date = "2014-11-07T09:20:15-03:00"
-title = "Medina Franck Sensei"
+title = "Raúl Marcial Medina Franck Sensei"
 
 +++
 
