@@ -8,9 +8,7 @@ type = "events"
 
 Clase especial en Toku-iku dojo, dictada por el fukushidoin Diego Hefty (2do. Dan, instructor visitante desde la ciudad de Río Cuarto, Córdoba).
 
-{{% figure src="/images/people/Diego Hefty.jpg"
-    caption="fukushidoin Diego Hefty" %}}
-
+{{% figure src="/images/events/2014/afiche hefty bsas.jpg" %}}
 
 
 #### Cómo llegar:
