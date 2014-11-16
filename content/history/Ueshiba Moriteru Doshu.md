@@ -5,7 +5,11 @@ title = "Ueshiba Moriteru Doshu"
 
 +++
 
-...2do hijo de Kisshomaru. Moriteru Ueshiba es, desde Enero de 1986,  el
+
+{{% figure src="/images/people/Ueshiba Moriteru Doshu.jpg" %}}
+
+
+2do hijo de Kisshomaru. Moriteru Ueshiba es, desde Enero de 1986,  el
 Director General del Aikikai Hombu Dojo y en Mayo del mismo año asumió como
 Presidente de la Fundación Aikikai.
 

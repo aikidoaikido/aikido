@@ -5,6 +5,8 @@ title = "Ueshiba Kisshomaru Doshu"
 
 +++
 
+{{% figure src="/images/people/Doshu Kisshomaru Ueshiba.jpg" %}}
+
 Nació el 27 de junio de 1921 en Ayabe prefectura de Kioto. Comenzó su practica
 siendo aún un niño, alrededor de 1936 empezó su entrenamiento, haciendo de uke
 de su padre cuando iba a hacer demostraciones. También practicó Kendo y también

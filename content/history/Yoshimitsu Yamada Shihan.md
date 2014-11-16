@@ -5,6 +5,10 @@ title = "Yoshimitsu Yamada Shihan"
 
 +++
 
+
+{{% figure src="/images/people/Yoshimitsu Yamada Shihan.jpg" %}}
+
+
 Yoshimitsu Yamada nació en la ciudad de Tokio, Japón en 1938.  En 1955 ingresó
 como uchideshi por lo que adquirió sus conocimientos de Aikido directamente del
 Fundador Morihei Ueshiba.  Se formó en el Centro Mundial del Aikido en Tokyo,

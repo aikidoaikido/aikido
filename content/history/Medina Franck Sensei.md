@@ -5,6 +5,9 @@ title = "Raúl Marcial Medina Franck Sensei"
 
 +++
 
+{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" %}}
+
+
 Nació el 16 de julio de 1940 en la ciudad de Frias provincia de Santiago Del
 Estero, y lo bautizaron con el nombre de Raúl Marcial. A los 15 años se radicó
 en la ciudad de Córdoba en donde transcurre su vida hasta la actualidad.
@@ -27,7 +30,7 @@ Aikido que el mismo día estaba solicitándole que lo acepte como alumno y le
 enseñe su Arte. Sakanashi Sensei lo aceptó y desde ese momento, si bien
 continuó pisando los tatamis pero ya con una mentalidad muy distinta,
 alejándose de la competencia y acercándose al camino de la armonía, de la no
-agresión, de la paz. 
+agresión, de la paz.
 
 Medina Sensei dejó de usar su cinturón negro de 5º Dan y se colocó otra vez el
 cinturón blanco como en 1959 y se abocó de lleno al aprendizaje y difusión de
