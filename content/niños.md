@@ -7,6 +7,9 @@ slug = "ninos"
 
 +++
 
+
+{{% figure src="/images/photos/aikido_niños.jpg" %}}
+
 La práctica del Aikido desarrolla gran capacidad física, flexibilidad,
 concentración, equilibrio (tanto físico como mental), y contribuye a que los
 niños se sientan mejor con su cuerpo dándoles mayor confianza en si mismos y
