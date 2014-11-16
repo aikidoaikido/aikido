@@ -40,7 +40,7 @@ orientados a desarrollar velocidad, fuerza, resistencia, equilibrio y
 coordinación para que se sientan más seguros de si mismos y de sus propias
 acciones. Que sientan curiosidad ante nuevas situaciones y se muestren
 dispuestos al cambio.
- 
+
 
 ¿Por qué los niños deben entrenar Aikido?
 -----------------------------------------
@@ -63,5 +63,4 @@ habilidades especiales. La clave para progresar en Aikido (y la vida) es
 simplemente perseverar y tener una actitud positiva ¿Podemos enseñarle algo
 mejor a nuestros hijos?
 
-Por informes e inscripción dirigirse a av. Vélez Sarsfield 940 de lunes a
-viernes de 18.00 a 22.00 hs o por [email](mailto:info@aikidoaikido.com.ar).
+Por informes e inscripción no dude en [contactarnos](/contact) o dirigirse a Av. Vélez Sarsfield 910, de lunes a viernes de 18.00 a 22.00 hs.
