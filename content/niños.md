@@ -8,7 +8,7 @@ slug = "ninos"
 +++
 
 
-{{% figure src="/images/photos/aikido_niños.jpg" %}}
+{{% figure src="http://aikidoaikido.com.ar/images/photos/aikido_ninos.jpg" %}}
 
 La práctica del Aikido desarrolla gran capacidad física, flexibilidad,
 concentración, equilibrio (tanto físico como mental), y contribuye a que los
