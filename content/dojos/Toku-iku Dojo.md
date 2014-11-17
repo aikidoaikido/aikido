@@ -2,7 +2,7 @@
 Description = ""
 address = "Borges 2186 Palermo, CABA, Buenos Aires, Argentina"
 date = "2014-09-07T19:41:12-03:00"
-email = ""
+email = "tokuiku@hotmail.com"
 instructor = "Sergio Rossi"
 instructorRank = "3er. Dan"
 place = "Ciudad Autonoma de Buenos Aires"
