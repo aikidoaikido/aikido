@@ -6,4 +6,5 @@ title = "Clase de Danes de Diciembre"
 type = "events"
 
 +++
+{{% figure src="http://aikidoaikido.com.ar/images/events/2014/poster-clase-danes-dic.jpg" %}}
 
