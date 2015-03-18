@@ -33,11 +33,9 @@ generaciones puedan beneficiarse con la práctica de esta disciplina que
 seguramente les ayudará y brindará herramientas que les serán útiles para 
 mejorar no sólo su salud sino también, su estilo de vida.
 
-{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" caption="Maestro 
-Raúl Marcial Medina Franck - 6º Dan Aikikai - Presidente y Director General" %}}
+{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" caption="Maestro Raúl Marcial Medina Franck - 6º Dan Aikikai - Presidente y Director General" %}}
 
-{{% figure src="/images/diploma.jpg" caption="Diploma
-de 6º Dan" %}}
+{{% figure src="/images/diploma.jpg" caption="Diploma de 6º Dan" %}}
 
 > La traducción literal del diploma sería:
 > Leido de izquierda a derecha: 
