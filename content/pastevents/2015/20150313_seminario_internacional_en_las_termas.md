@@ -7,10 +7,20 @@ type = "events"
 
 +++
 
-Sensei Raúl Medina junto a practicantes de la Asociación viajarán al Seminario Internacional de Aikido oranizado por _Santiago del Estero Aikikai_.
-El mismo será los días 13, 14 y 15 de Marzo de 2015.
+Sensei Raúl Medina junto a practicantes de la Asociación viajaron al Seminario
+Internacional de Aikido oranizado por _Santiago del Estero Aikikai_ durante los
+días 13, 14 y 15 de Marzo de 2015.
 
-El mismo contará con la visita de Robert Zimmermann Shihan 7° dan, instructor en Jefe de Toronto Aikikai, miembro del Comité Técnico de la USAF.
+{{% figure src="/images/events/201503_seminario_termas/senseis.jpg" %}}
+
+{{% figure src="/images/events/201503_seminario_termas/senseis_y_practicantes.jpg" %}}
+
+El mismo contó con la visita de Robert Zimmermann Shihan 7° dan, instructor
+en Jefe de Toronto Aikikai, miembro del Comité Técnico de la USAF.
+
+Nuestra felicitación a la entidad organizadora, a su lider en Santiago del
+Estero, el Sensei Leandro y todos sus colaboradores y familiares que hicieron
+posible tan magnifico evento. Un ejemplo!!!
 
 {{% figure src="http://4.bp.blogspot.com/-COad8IwJMCA/VMBnFM3dvaI/AAAAAAAAcCM/GMwF0iohYlo/s1600/e.jpg" %}}
 
