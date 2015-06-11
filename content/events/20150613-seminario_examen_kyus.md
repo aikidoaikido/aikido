@@ -14,6 +14,7 @@ Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus
 Tendrá un costo de 80 pesos para practicantes en general y de 50 para
 practicantes que rinden.
 
+{{% figure src="/images/events/poster_seminario_20150613.jpg" %}}
 
 #### Como llegar
 
