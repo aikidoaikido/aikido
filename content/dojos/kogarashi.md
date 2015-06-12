@@ -2,7 +2,7 @@
 Description = ""
 address = "Castelar 137 esq. Rivera Indarte, Barrio Alta Córdoba, Ciudad de Córdoba, Córdoba, Argentina"
 date = 2014-09-07T18:45:00Z
-instructor = "José Delgado, Eugenio Fernandez"
+instructor = "Jose Delgado - Eugenio Fernandez"
 instructorRank = "3er. dan/2do. Dan"
 skipPhoto = "dale"
 place = "Córdoba"
