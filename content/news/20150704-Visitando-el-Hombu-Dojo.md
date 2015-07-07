@@ -7,7 +7,7 @@ title = "20150704 Visitando el Hombu Dojo"
 +++
 
 El practicante de Aikido perteneciente a la Asociación, Gustavo Saldaña, ha 
-aterrizado en Japón y estará presente en una práctica en el Hombu Dojo 
-presenciando una clase del Doshu Moriteru Ueshiba.
+aterrizado en Japón y fue a tomar clases con los grandes Maestros de Hombu Dojo 
+incluso con el Doshu Moriteru Ueshiba.
 
 {{% figure src="/images/people/Gustavo Guillermo Saldaña.jpg" %}}
