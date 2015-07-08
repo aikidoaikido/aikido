@@ -1,8 +1,8 @@
 +++
 Description = ""
 date = "2015-07-04T12:38:20-03:00"
-menu = "main"
-title = "20150704 Visitando el Hombu Dojo"
+title = "Visitando el Hombu Dojo"
+type = "news"
 
 +++
 
