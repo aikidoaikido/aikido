@@ -8,7 +8,7 @@ place = "Córdoba"
 supervisor = "Raul Marcial Medina Franck"
 supervisorRank = "Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan de JiuJitsu"
 telephone = ""
-title = "Ikiru"
+title = "Ikiru Dojo Río Cuarto"
 email = ""
 
 +++

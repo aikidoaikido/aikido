@@ -8,8 +8,7 @@ place = "Córdoba"
 supervisor = "Raul Marcial Medina Franck"
 supervisorRank = "Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan de JiuJitsu"
 telephone = "+54-351-(15)6187330"
-title = "Club Tiro y Gimnasia"
+title = "Club Tiro y Gimnasia Dojo San Francisco"
 email = ""
 
 +++
-
