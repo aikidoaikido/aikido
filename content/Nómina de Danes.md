@@ -34,6 +34,7 @@ slug = "danes"
  * Carmen Cisterna
  * Carlos Angel Hernandez
  * Daniel Zukauskas
+ * Guillermo Echeverria
  * José Delgado
  * Rafaél Santiago Moyano
  * Sergio Rossi
@@ -46,16 +47,18 @@ slug = "danes"
  * Diego Gustavo Hefty
  * Eduardo Castelli
  * Eugenio Fernandez
- * Guillermo Echeverria
+ * Fabian Eduardo Fernandez
  * Gustavo Saldaña
  * Gustavo Sanin
+ * Hernán Bobadilla
+ * Hugo Javier Bazan
  * Ignacio Leguizamón
  * Iván Ocaño
  * Jorge Orpianesi
  * Juan Galleguillo
  * Juan Manual Sanchez
- * Luciano Battistini
  * Luis Tokashiki
+ * Marcela del Rosario Tapia
  * Mary Peretti
  * Melina Rey
  * Omar Mazzieri
@@ -63,50 +66,51 @@ slug = "danes"
  * Pablo Boetsch
  * Ricardo Tomás Goicochea
  * Sebastián Torres
+ * Victor Damian Issacson
  * Walter Oviedo
 
 
 1er. Dan
 --------
 
- * Alejandro Héctor Giorgio
+ * Alberto Jesús Oropel
+ * Alejandra Victoria Nieto Ramos
  * Alejandro María de Carlo
  * Alfonso Osorio
+ * Agustín Fernando Pieri Ferreyra
  * Angel Emilio Lamor
  * Bruno Conti
- * Carlos Bisio
+ * Carlos Daniel Moyano
  * Carlos de la Torre
- * Cintia Mayztegui
+ * Carlos Rojas
+ * César Gabriel Núñez
  * César Tittarelli
  * Daniel Joaquín Lombardi
  * Darío Gabriel Vargas
+ * Diego Alberto Loza
  * Diego Castella
  * Diego Maldonado
  * Dino Giralda
- * Edgardo Di Buchianico
  * Eduardo Ramallo
  * Eugenia Izquierdo
  * Ezequiel Santiago Velez
- * Fabian Hernandez
  * Federico Carignano
  * Fernando Luis Soria Percello
  * Fernando Martinez
+ * German Capisano
  * Germán Darío Mugnaini
- * Gisela Aguilera
  * Grisel Macarena Argüello
  * Guillermo Vera
+ * Gustavo Dario Soriano
  * Gustavo Raúl Paez
  * Gustavo Requelme
  * Gustavo Rizo
  * Hector Omar Aurieme
- * Hernan Sanchez
- * Hernán Bobadilla
  * Horacio Hernán Contrera
  * Hugo Agüero
- * Hugo Bazan
+ * Jorge Andres
  * Jorge Gustavo Martinez
  * José Eduardo Rodriguez
- * José Gabriel Viviano
  * José Miguel Ciffone
  * José Miguel Frustaglia
  * Juan Domingo Peralta
@@ -117,31 +121,32 @@ slug = "danes"
  * Lucas Nanzer
  * Luciano Ortín Dávila
  * Luis Moreno
+ * Marcelo Costantini
  * Marcos Andrés Finsterbuch
  * Maria Eugenia Cataldo
+ * María Laura Avalos
  * Marina Mendizabal
- * Martin Giovagnetti
  * María Tatiana Agúero
- * Matías Nuñez
+ * Martin Rodolfo Vega
  * Mauricio Fourcade
  * Mauro Edgardo Argüello
  * Miguel Angel Puchi
  * Nadia Susevich
+ * Néstor Gerónimo Moras
+ * Nicolás Luís Andres
  * Oscar Parente
  * Pablo Aramayo
  * Pablo Martin de la Barrera
  * Pablo Osiris Ameri
- * Patricio Iván Pantaleo
  * Paula Galleguillo
  * Ramón Claudio Bustos
- * Ramón Ezequiel Demo
  * Raúl Ariel Guzman
  * Ricardo Daniel Bino
  * Ricardo Velazquez
  * Roberto Urriza
  * Rodolfo Hugo Ceballos
+ * Rubén Oscar Gaitan
  * Ruth Fernandez
- * Serio Raúl Villegas
+ * Sebastian Vera
  * Victor Adrián Bertolani
  * Victor Hugo Ferreyra
-
