@@ -25,7 +25,6 @@ slug = "danes"
 --------
 
  * Juan José Trakal
- * Marta Morabito
 
 
 3er. Dan
