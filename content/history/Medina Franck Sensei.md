@@ -60,7 +60,7 @@ Raúl Marcial Medina Franck Sensei integró a su familia a la práctica de Aikid
 su esposa Carmen Isabel Cisterna (Chiche) es 3er. Dan, su hijo Daniel 5to. Dan
 y sus nietos que militan en la categría Kiú. Seguramente esto contribuye a la
 gran difusión que tiene en Córdoba y en las otras provincias donde dirige a
-numerosos  seguidores de ambos sexos.
+numerosos seguidores de ambos sexos.
 
 En Diciembre del año 2004 El Sensei Raúl Marcial Medina Franck recibió de manos
 del Presidente de la Confederación Argentina de Judo, Contador Oscar Casinerio,
@@ -73,11 +73,13 @@ y durante 29 años atendió su consultorio de Shiatzu en la ciudad de Córdoba.
 También estudia y practica con gran entusiasmo el arte del Sho-Do (caligrafía
 japonesa con pincel) se inició como autodidacta, luego tomó clases en Buenos
 Aires con la afamada Sadako Miyai (Koyo) Sensei 7º Dan hasta su fallecimiento.
-Actualmente es alumno de Satoko Fushimi Sensei y continúa con la práctica de
+Actualmente es alumno de Satoko Fushimi Sensei, también practicó durante 3 años  
 Iai Do bajo la dirección del Maestro Gustavo Adolfo Ramos 5to. Dan de Kendo y
-3er. Dan de Iaido el mas alto exponente de este arte en Córdoba.
+3er. Dan de Iaido, el mas alto exponente de este arte en Córdoba.
 
 En la actualidad Medina Franck Sensei dicta cursos de Shiatzu y es  6º Dan de
 Aikido Aikikai, 6to.Dan de Judo y 5to.Dan de JiuJitsu Koryu y frecuentemente es
 invitado a dictar Seminarios de perfeccionamiento en distintas provincias
 argentinas y también en otros países.
+Medina Sensei cumplió 75 años de vida y lleva dedicados 56 años a las Artes Marciales,
+primero Judo y luego Aikido y de lunes a viernes continúa dando sus clases de Aikido. 
