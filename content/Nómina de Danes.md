@@ -42,8 +42,7 @@ slug = "danes"
 --------
 
  * Ariane Rafael
- 
- * Diego Gustavo Hefty
+  * Diego Gustavo Hefty
  * Eduardo Castelli
  * Fabian Eduardo Fernandez
  * Gustavo Saldaña
