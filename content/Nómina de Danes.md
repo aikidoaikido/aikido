@@ -25,7 +25,7 @@ slug = "danes"
 --------
 
  * Juan José Trakal
- * Marta Morabito
+ 
 
 
 3er. Dan
@@ -42,7 +42,7 @@ slug = "danes"
 --------
 
  * Ariane Rafael
- * Diego Ferreyra
+ 
  * Diego Gustavo Hefty
  * Eduardo Castelli
  * Fabian Eduardo Fernandez
