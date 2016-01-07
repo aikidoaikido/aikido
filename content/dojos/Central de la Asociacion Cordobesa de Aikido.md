@@ -11,24 +11,18 @@ slug = "horarios"
 
 ## AIKIDO
 
-|                  | Lunes  | Martes | Miércoles | Jueves | Viernes |
-|------------------|--------|--------|-----------|--------|:-------:|
-| *11:00-12:00 hs* |        | AIKIDO |           | AIKIDO |         |
-| *18:30-19:30 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO |  AIKIDO |
-| *19:45-20:45 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO |  AIKIDO |
-| *21:00-22:00 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO |  AIKIDO |
+|                  | Lunes  | Martes | Miércoles | Jueves                                  | Viernes |
+|------------------|--------|--------|-----------|-----------------------------------------|:-------:|
+| *11:00-12:00 hs* |        | AIKIDO |           | AIKIDO                                  |         |
+| *18:30-19:30 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO                                  |  AIKIDO |
+| *19:45-20:45 hs* | AIKIDO | AIKIDO | AIKIDO    | **Clase especial para Danes y 1er Kyu** |  AIKIDO |
+| *21:00-22:00 hs* | AIKIDO | AIKIDO | AIKIDO    | AIKIDO                                  |  AIKIDO |
 
 ## AIKIDO NIÑOS
 
 |                  | Lunes  | Martes       | Miércoles | Jueves       | Viernes |
 |------------------|--------|--------------|-----------|--------------|:-------:|
 | *18:30-19:30 hs* |        | AIKIDO NIÑOS |           | AIKIDO NIÑOS |         |
-
-## IAIDO
-
-|                  | Lunes | Martes | Miércoles | Jueves | Viernes |
-|------------------|-------|--------|-----------|--------|:-------:|
-| *19:45-20:45 hs* |       | IAIDO  |           | IAIDO  |  AIKIDO |
 
 
 # Jefe de Instructores
@@ -39,14 +33,11 @@ Raul Marcial Medina Franck Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan d
 ## Instructores
 
  * Juan José Trakal 4er. Dan Aikido
- * Jose Delgado 3er. Dan Aikido
  * Serio Rossi 3er. Dan Aikido
  * Daniel Zukauskas 3er. Dan Aikido
  * Arianne Rafael 2do. Dan Aikido
  * Pablo Arranz 2do. Dan Aikido
- * Eugenio Fernandez 2do. Dan Aikido
  * Juan Galleguillo 2do. Dan Aikido
- * Diego Ferreyra 2do. Dan Aikido
  * Pablo Boetsch 1er. Dan Aikido
 
 
