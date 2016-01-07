@@ -13,5 +13,68 @@
 </div>
 </div>
 
+{{ if .Params.youmax }}
+  <script type="text/javascript">
+	$("#youmax").youmax({
+		apiKey:"AIzaSyB-J-JhlprG9qm0qAjFwu4imgeHqXqvDQE",
+		clientId:"237485577723-lndqepqthdb3lh4gec2skvpfaii9sgh0.apps.googleusercontent.com",
+
+		youtube_channel_uploads:[
+			{
+				url:"https://www.youtube.com/channel/UC_VwEBOb3-6Qadi5rhjNk7g",
+				name:"Asociación Cordobesa de Aikido",
+				selected:true
+			}		
+		],
+		
+		channel:"http://www.youtube.com/user/CordobaAikido",
+		
+		selectedTab:"u",
+		displayVideo:"popup",
+		alwaysUseDropdown:true,
+		skin:"clean",
+		maxResults:24,
+		innerOffset:25,
+		outerOffset:35,
+		minItemWidth:250,
+		maxItemWidth:400,
+		maxContainerWidth:1080,
+		autoPlayVideo:false,
+		displayFirstVideoOnLoad:false,
+		linkNewPages:true,
+		searchBoxScope:"channel",
+		videoProtocol:"https:",
+		autoLoadComments: false,
+		alignPopupToTop: true,
+		commentOrder:"relevance", //time|relevance
+		featuredVideo:'https://www.youtube.com/watch?v=nWivGrCKo4Y',
+		playlistSearchFile:'./json/searchlist.json',
+		userWebsite:"http://www.aikidoaikido.com.ar",
+		videoMode:"wide",
+		shareLink:"youtube",
+		facebookAppId:"",
+		widgetMode:false,
+		
+		showTitleInVideoPlayer:true,
+		playlistAction:"showvideos",
+		
+		viewCountType:"abbr",
+		likeCommentCountType:"abbr",
+		showEvents:true,
+		loadMode:"loadmore", //paginate-sides
+		hideHeader:false,
+		hideNavigation:false,
+		loadButtonSize:"large",
+		videoPlayerTheme:"light",
+		//minVideoContainerHeight:300,
+		
+		translatorFile:"./json/translation.json",
+		showVimeoLikesInsteadOfViews:true,
+		
+	});
+
+  </script>
+{{ end }}
+
   </body>
 </html>

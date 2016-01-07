@@ -1,0 +1,24 @@
+{"translator":
+	{
+		"search":"Búsqueda",
+		"uploads":"Subidos",
+		"playlists":"Playlists",
+		"events":"Eventos",
+		"views":"visitas",
+		"likes":"me gusta",
+		"videos":"videos",
+		"subscribers":"subscriptores",
+		"year":"año",
+		"years":"años",
+		"month":"mes",
+		"months":"meses",
+		"day":"día",
+		"days":"días",
+		"hour":"hora",
+		"hours":"horas",
+		"ago":"hace",
+		"now":"en este momento",
+		"thoughts":"Comparte tus pensamientos...",
+		"comments":"comentarios"
+	}
+}
