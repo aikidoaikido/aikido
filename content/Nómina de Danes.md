@@ -72,7 +72,6 @@ slug = "danes"
  * Alberto Jesús Oropel
  * Alejandra Victoria Nieto Ramos
  * Alejandro María de Carlo
- * Alfonso Osorio
  * Agustín Fernando Pieri Ferreyra
  * Angel Emilio Lamor
  * Bruno Conti
