@@ -9,7 +9,7 @@ menu = "main"
 *Boletín informativo:* <a href="http://eepurl.com/1CGHL" target="_blank">click para suscribirse</a>
 
 
-*Teléfono:* +549 351-650-3560
+*Teléfono:* +549 351-650-3560 o +549 351-678-7108
 
 *Buscanos en Facebook:* <a href="http://www.facebook.com/asoc.cba.aikido" target="_blank">Asociación Cordobesa de Aikido</a>
 
