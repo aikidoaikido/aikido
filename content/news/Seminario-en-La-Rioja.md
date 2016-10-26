@@ -1,7 +1,7 @@
 +++
 Description = ""
 date = "2016-09-29T17:17:51-03:00"
-menu = "main"
+menu = "news"
 title = "Seminario en La Rioja"
 
 +++
