@@ -1,0 +1,5 @@
++++
+Description = ""
+type = "news"
+place = ""
++++
