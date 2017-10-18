@@ -34,6 +34,7 @@ slug = "danes"
  * Carlos Angel Hernandez
  * Daniel Zukauskas
  * Guillermo Echeverria
+ * Gustavo Saldaña
  * Rafaél Santiago Moyano
  * Sergio Rossi
 
@@ -44,7 +45,6 @@ slug = "danes"
  * Diego Gustavo Hefty
  * Eduardo Castelli
  * Fabian Eduardo Fernandez
- * Gustavo Saldaña
  * Gustavo Sanin
  * Hernán Bobadilla
  * Hugo Javier Bazan
