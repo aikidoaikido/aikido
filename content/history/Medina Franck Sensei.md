@@ -1,7 +1,7 @@
 +++
 Description = ""
 date = "2014-11-07T09:20:15-03:00"
-title = "Raúl Marcial Medina Franck Sensei"
+title = "Raúl Marcial Medina Franck Shihan"
 
 +++
 
@@ -32,7 +32,7 @@ continuó pisando los tatamis pero ya con una mentalidad muy distinta,
 alejándose de la competencia y acercándose al camino de la armonía, de la no
 agresión, de la paz.
 
-Medina Sensei dejó de usar su cinturón negro de 5º Dan y se colocó otra vez el
+Medina Shihan dejó de usar su cinturón negro de 5º Dan y se colocó otra vez el
 cinturón blanco como en 1959 y se abocó de lleno al aprendizaje y difusión de
 Aikido y así, Raúl Marcial Medina Franck se convierte en el primer practicante
 de Aikido en Córdoba.
@@ -51,22 +51,22 @@ integró la delegación presidida por Sakanashi Sensei, que concurrió a la
 ceremonia de asunción del actual Doshu de Aikido, Ueshiba Moriteru, en el Keio
 Plaza Hotel en la ciudad de Tokio Japón. A la mañana siguiente de la ceremonia
 y los festejos, el Doshu Ueshiba recibió en el Hombu Dojo a Raúl Marcial Medina
-Franck Sensei quién le entregó el obsequio que llevó desde Córdoba.
+Franck Shihan quién le entregó el obsequio que llevó desde Córdoba.
 
 Ya en Japón le fue posible cristalizar otro anhelo, el tomar clases de
 meditación Zen en el Templo Yorenguein en las montañas de Kioto.
 
-Raúl Marcial Medina Franck Sensei integró a su familia a la práctica de Aikido,
+Raúl Marcial Medina Franck Shihan integró a su familia a la práctica de Aikido,
 su esposa Carmen Isabel Cisterna (Chiche) es 3er. Dan, su hijo Daniel 5to. Dan
 y sus nietos que militan en la categría Kiú. Seguramente esto contribuye a la
 gran difusión que tiene en Córdoba y en las otras provincias donde dirige a
 numerosos seguidores de ambos sexos.
 
-En Diciembre del año 2004 El Sensei Raúl Marcial Medina Franck recibió de manos
+En Diciembre del año 2004 El Shihan Raúl Marcial Medina Franck recibió de manos
 del Presidente de la Confederación Argentina de Judo, Contador Oscar Casinerio,
 los documentos que lo acreditan como Maestro 6º Dan Internacional. Actualmente
 integra el Concejo de Disciplina de la Federación cordobesa de Judo.  Desde
-hace 55 años Raúl Marcial Medina Franck Sensei se dedica al estudio e
+hace 55 años Raúl Marcial Medina Franck Shihan se dedica al estudio e
 investigación de las terapias orientales especialmente el método Kiai y Kuatsu
 y durante 29 años atendió su consultorio de Shiatzu en la ciudad de Córdoba.
 
@@ -77,9 +77,10 @@ Actualmente es alumno de Satoko Fushimi Sensei, también practicó durante 3 añ
 Iai Do bajo la dirección del Maestro Gustavo Adolfo Ramos 5to. Dan de Kendo y
 3er. Dan de Iaido, el mas alto exponente de este arte en Córdoba.
 
-En la actualidad Medina Franck Sensei dicta cursos de Shiatzu y es  6º Dan de
+Desde el 2018, ha recibido el nombramiento de Shihan, luego que el Comité Examinador para el nombramiento de Shihan tomara esa decisión. Éste título muestra su calificación como Instructor del más alto rango, firmado : Doshu, Sr. Moriteru Ueshiba.
+Para éste nombramiento, Medina Franck fue recomendado por nuestro Maestro General Yamada Yoshimitsu Shihan 8° Dan.
+
+En la actualidad Medina Franck Shihan dicta cursos de Shiatzu y es 6º Dan de
 Aikido Aikikai, 6to.Dan de Judo y 5to.Dan de JiuJitsu Koryu y frecuentemente es
 invitado a dictar Seminarios de perfeccionamiento en distintas provincias
 argentinas y también en otros países.
-Medina Sensei cumplió 75 años de vida y lleva dedicados 56 años a las Artes Marciales,
-primero Judo y luego Aikido y de lunes a viernes continúa dando sus clases de Aikido. 
