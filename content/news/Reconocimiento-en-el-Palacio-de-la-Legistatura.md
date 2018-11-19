@@ -6,7 +6,7 @@ title = "Reconocimiento a Shihan en el Palacio de la Legislatura"
 date = "2018-11-17"
 +++
 
-Invitamos a todos los practicantes de Aikido y actividades afines a participar de la celebración de nombramiento de Shihan a nuestro Shihan Raúl Marcial Media.
+Invitamos a todos los practicantes de Aikido y actividades afines a participar de la celebración de nombramiento de Shihan a nuestro Shihan Raúl Marcial Medina.
 
 El evento se desarrollará el Martes 20 del corriente año a las 13:30 horas en la sala Regino Maders del Palacio Legistalivo de Córdoba.
 
