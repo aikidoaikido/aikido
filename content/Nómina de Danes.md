@@ -8,7 +8,7 @@ slug = "danes"
 +++
 
 
-6to. Dan
+Shihan 6to. Dan
 --------
 
  * Raúl Marcial Medina Franck
@@ -24,19 +24,20 @@ slug = "danes"
 4to. Dan
 --------
 
+ * Carlos Angel Hernandez
  * Juan José Trakal
+ * Rafaél Santiago Moyano
 
 
 3er. Dan
 --------
 
  * Carmen Cisterna
- * Carlos Angel Hernandez
  * Daniel Zukauskas
  * Guillermo Echeverria
  * Gustavo Saldaña
- * Rafaél Santiago Moyano
- * Sergio Rossi
+ * Pablo Arranz
+ * Pablo Boetsch
 
 2do. Dan
 --------
@@ -58,13 +59,10 @@ slug = "danes"
  * Mary Peretti
  * Melina Rey
  * Omar Mazzieri
- * Pablo Arranz
- * Pablo Boetsch
  * Ricardo Tomás Goicochea
  * Sebastián Torres
  * Victor Damian Issacson
  * Walter Oviedo
-
 
 1er. Dan
 --------
