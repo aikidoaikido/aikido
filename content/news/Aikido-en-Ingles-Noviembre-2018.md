@@ -18,4 +18,4 @@ Compartimos imagenes
 
 Y un video del evento
 
-{{< youtube o3PJrnbf9kQ>}}
+{{< youtube o3PJrnbf9kQ >}}
