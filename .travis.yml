@@ -1,0 +1,8 @@
+dist: xenial
+
+addons:
+  snaps:
+    - hugo
+
+script:
+  - ./deploy site_deploy

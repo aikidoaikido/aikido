@@ -1,0 +1,45 @@
+#!/bin/sh
+
+set -e
+
+SITE="$1"
+
+if [ -z "$SITE" ]; then
+    echo "Usage $0 <site-directory>"
+    exit 1
+fi
+
+if [ ! -d "$SITE" ]; then
+    git clone https://github.com/aikidoaikido/aikidoaikido.github.io.git "$SITE"
+else
+    (
+        cd "$SITE" || exit
+        git reset --hard
+        git pull
+    )
+fi
+
+/snap/bin/hugo -d "$SITE"
+
+cd "$SITE" || exit
+
+if [ -z "$(git status -s)" ]; then
+    echo "Nothing new to deploy... exit"
+    exit 0
+fi
+
+git add .
+if [ -n "$TRAVIS_COMMIT" ]; then
+    message="Deploy for $TRAVIS_COMMIT on $(date)"
+else
+    message="Local deploy on $(date)"
+fi
+
+git -c user.name='travis' -c user.email='travis' commit -m "$message"
+if [ -n "$GITHUB_API_KEY" ]; then
+    git push --set-upstream --quiet https://sergiusens:"$GITHUB_API_KEY"@github.com/aikidoaikido/aikido.github.io.git master 2>/dev/null
+else
+    # Make sure to make the output quiet, or else the API token will leak!
+    # This works because the API key can replace your password.
+    git push --set-upstream https://github.com/sergiusens/sergiusens.github.com.git master
+fi
