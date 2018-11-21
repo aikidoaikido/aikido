@@ -37,9 +37,9 @@ fi
 
 git -c user.name='travis' -c user.email='travis' commit -m "$message"
 if [ -n "$GITHUB_API_KEY" ]; then
-    git push --set-upstream --quiet https://sergiusens:"$GITHUB_API_KEY"@github.com/aikidoaikido/aikido.github.io.git master 2>/dev/null
-else
     # Make sure to make the output quiet, or else the API token will leak!
     # This works because the API key can replace your password.
-    git push --set-upstream https://github.com/sergiusens/sergiusens.github.com.git master
+    git push --set-upstream --quiet https://sergiusens:"$GITHUB_API_KEY"@github.com/aikidoaikido/aikidoaikido.github.io.git master 2>/dev/null
+else
+    git push --set-upstream https://github.com/aikidoaikido/aikidoaikido.github.io.git master
 fi
