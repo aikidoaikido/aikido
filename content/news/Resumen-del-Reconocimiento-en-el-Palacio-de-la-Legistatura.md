@@ -11,3 +11,5 @@ Compartimos imágenes de la celebración de nombramiento de Shihan a nuestro Shi
 {{< instagram Bqc8i-Tlq-E >}}
 {{< instagram Bqc8t8GFrTJ >}}
 {{< instagram Bqc9A2eFePe >}}
+
+Además, invitamos a la lectura del artículo publicado por la **Confederación de Deportes de la Provincia de Córdoba**: *[Raul Medina Franck: una vida dedicada a las Artes Marciales](http://confedeportes-cba.blogspot.com/2018/11/aikido-raul-medina-franck-una-vida.html)*
