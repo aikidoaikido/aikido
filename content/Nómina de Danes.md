@@ -57,7 +57,6 @@ Shihan 6to. Dan
  * Hernán Bobadilla
  * Hugo Javier Bazán
  * Ignacio Leguizamón
- * Iván Ocaño
  * Jorge Orpianesi
  * Juan Galleguillo
  * Juan Manuel Sanchez
@@ -84,7 +83,6 @@ Shihan 6to. Dan
  * Darío Gabriel Vargas
  * Diego Alberto Loza
  * Diego Castella
- * Diego Maldonado
  * Dino Giralda
  * Fernando Martinez
  * Germán Darío Mugnaini
