@@ -7,7 +7,7 @@ supervisor = "Edgardo Argüello"
 supervisorRank = "Sensei 5to. Dan. Director de Aikido Marusabi"
 place = "Mendoza"
 telephone = "+54-261-4471912"
-title = "Marushabi Dojo Central"
+title = "Marubashi Dojo Central"
 
 +++
 
