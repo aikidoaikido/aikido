@@ -13,13 +13,16 @@ Shihan 6to. Dan
 
  * Raúl Marcial Medina Franck
 
+6to. Dan
+--------
+
+ * Edgardo Argüello
+
 
 5to. Dan
 --------
 
  * Daniel Medina
- * Edgardo Argüello
-
 
 4to. Dan
 --------
@@ -34,6 +37,7 @@ Shihan 6to. Dan
 
  * Carmen Cisterna
  * Daniel Zukauskas
+ * Diego Gustavo Hefty
  * Guillermo Echeverria
  * Gustavo Saldaña
  * Pablo Arranz
@@ -42,24 +46,26 @@ Shihan 6to. Dan
 2do. Dan
 --------
 
- * Ariane Rafael
- * Diego Gustavo Hefty
+ * Agustín Fernando Pieri Ferreyra
+ * César Nuñez
  * Eduardo Castelli
- * Fabian Eduardo Fernandez
- * Gustavo Sanin
+ * Eduardo Ramallo
+ * Eugenia Izquierdo
+ * Fernando Luis Soria Percello
+ * Gustavo Dario Soriano
+ * Gustavo Rizo
  * Hernán Bobadilla
- * Hugo Javier Bazan
+ * Hugo Javier Bazán
  * Ignacio Leguizamón
  * Iván Ocaño
  * Jorge Orpianesi
  * Juan Galleguillo
- * Juan Manual Sanchez
+ * Juan Manuel Sanchez
  * Luis Tokashiki
- * Marcela del Rosario Tapia
+ * María Laura Avalos
  * Mary Peretti
- * Melina Rey
- * Omar Mazzieri
  * Ricardo Tomás Goicochea
+ * Roberto Urriza
  * Sebastián Torres
  * Victor Damian Issacson
  * Walter Oviedo
@@ -67,15 +73,11 @@ Shihan 6to. Dan
 1er. Dan
 --------
 
+ * Abél Barahona
  * Alberto Jesús Oropel
- * Alejandra Victoria Nieto Ramos
  * Alejandro María de Carlo
- * Agustín Fernando Pieri Ferreyra
  * Angel Emilio Lamor
  * Bruno Conti
- * Carlos Daniel Moyano
- * Carlos de la Torre
- * Carlos Rojas
  * César Gabriel Núñez
  * César Tittarelli
  * Daniel Joaquín Lombardi
@@ -84,62 +86,48 @@ Shihan 6to. Dan
  * Diego Castella
  * Diego Maldonado
  * Dino Giralda
- * Eduardo Ramallo
- * Eugenia Izquierdo
- * Ezequiel Santiago Velez
- * Federico Carignano
- * Fernando Luis Soria Percello
  * Fernando Martinez
- * German Capisano
  * Germán Darío Mugnaini
  * Grisel Macarena Argüello
  * Guillermo Vera
- * Gustavo Dario Soriano
  * Gustavo Raúl Paez
- * Gustavo Requelme
- * Gustavo Rizo
  * Hector Omar Aurieme
  * Horacio Hernán Contrera
  * Hugo Agüero
  * Jorge Andres
  * Jorge Gustavo Martinez
+ * Jorge Yramay
  * José Eduardo Rodriguez
  * José Miguel Ciffone
- * José Miguel Frustaglia
  * Juan Domingo Peralta
  * Juan Manuel Funes
- * Juan Mottola
  * Liliana Blanco
  * Lucas Campo
- * Lucas Nanzer
  * Luciano Ortín Dávila
  * Luis Moreno
  * Marcelo Costantini
  * Marcos Andrés Finsterbuch
  * Maria Eugenia Cataldo
- * María Laura Avalos
  * Marina Mendizabal
- * María Tatiana Agúero
  * Martin Rodolfo Vega
+ * Matías Molina
  * Mauricio Fourcade
  * Mauro Edgardo Argüello
  * Miguel Angel Puchi
- * Nadia Susevich
+ * Mónica Cardís
  * Néstor Gerónimo Moras
  * Nicolás Luís Andres
  * Oscar Parente
  * Pablo Aramayo
  * Pablo Martin de la Barrera
- * Pablo Osiris Ameri
- * Paula Galleguillo
  * Ramón Claudio Bustos
  * Raúl Ariel Guzman
  * Ricardo Daniel Bino
  * Ricardo Velazquez
- * Roberto Urriza
  * Rodolfo Hugo Ceballos
- * Rubén Oscar Gaitan
- * Ruth Fernandez
+ * Roxana Bruno
+ * Rubén Oscar Gaitán
  * Sebastian Vera
+ * Steven Skogman
  * Victor Adrián Bertolani
  * Victor Hugo Ferreyra
