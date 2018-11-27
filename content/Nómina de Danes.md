@@ -83,10 +83,12 @@ Shihan 6to. Dan
  * Darío Gabriel Vargas
  * Diego Alberto Loza
  * Diego Castella
+ * Diego Carmona
  * Dino Giralda
  * Fernando Martinez
  * Germán Darío Mugnaini
  * Grisel Macarena Argüello
+ * Guillermo Aguirre
  * Guillermo Vera
  * Gustavo Raúl Paez
  * Hector Omar Aurieme
