@@ -65,6 +65,7 @@ Shihan 6to. Dan
  * Mary Peretti
  * Ricardo Tomás Goicochea
  * Roberto Urriza
+ * Sebastián Olocco
  * Sebastián Torres
  * Victor Damian Issacson
  * Walter Oviedo
