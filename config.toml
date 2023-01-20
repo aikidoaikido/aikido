@@ -1,3 +1,4 @@
 baseurl = "http://www.aikidoaikido.com.ar"
 languageCode = "es-ar"
 title = "Asociación Cordobesa de Aikido"
+ignoreErrors = ["error-missing-instagram-accesstoken"]

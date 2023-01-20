@@ -66,4 +66,6 @@ habilidades especiales. La clave para progresar en Aikido (y la vida) es
 simplemente perseverar y tener una actitud positiva ¿Podemos enseñarle algo
 mejor a nuestros hijos?
 
-Por informes e inscripción no dude en [contactarnos](/contact) o dirigirse a Av. Vélez Sarsfield 910, de lunes a viernes de 18.00 a 22.00 hs.
+Por informes e inscripción no dude en [contactarnos](/contact) o dirigirse a Av.
+Marcelo T. de Alvear 577 (La Cañada), X5000 Córdoba, Argentina, de lunes a
+viernes de 18.00 a 22.00 hs.
