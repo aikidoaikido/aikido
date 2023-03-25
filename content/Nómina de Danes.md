@@ -8,7 +8,7 @@ slug = "danes"
 +++
 
 
-Shihan 6to. Dan
+Shihan 7to. Dan
 --------
 
  * Raúl Marcial Medina Franck
