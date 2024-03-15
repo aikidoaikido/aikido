@@ -8,7 +8,7 @@ slug = "danes"
 +++
 
 
-Shihan 6to. Dan
+Shihan 7mo. Dan
 --------
 
  * Raúl Marcial Medina Franck
@@ -23,24 +23,23 @@ Shihan 6to. Dan
 --------
 
  * Daniel Medina
+ * Juan José Trakal
 
 4to. Dan
 --------
 
  * Carlos Angel Hernandez
- * Juan José Trakal
  * Rafaél Santiago Moyano
-
+ * Gustavo Saldaña
+ * Pablo Arranz
+  
 
 3er. Dan
 --------
 
  * Carmen Cisterna
- * Daniel Zukauskas
  * Diego Gustavo Hefty
  * Guillermo Echeverria
- * Gustavo Saldaña
- * Pablo Arranz
  * Pablo Boetsch
 
 2do. Dan
