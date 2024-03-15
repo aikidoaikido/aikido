@@ -30,6 +30,7 @@ Shihan 6to. Dan
  * Carlos Angel Hernandez
  * Juan José Trakal
  * Rafaél Santiago Moyano
+ * Pablo Arranz
 
 
 3er. Dan
@@ -40,7 +41,6 @@ Shihan 6to. Dan
  * Diego Gustavo Hefty
  * Guillermo Echeverria
  * Gustavo Saldaña
- * Pablo Arranz
  * Pablo Boetsch
 
 2do. Dan
